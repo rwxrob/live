@@ -1,0 +1,19 @@
+{
+  "name": "coding"
+  "emoji": "💢",
+  "status": "coding live stream modal utility",
+  "default": "coding bash, go, c, or web",
+  "description": "The throbbing forehead vein is because when I code I'm usually in a pretty intense state and focused. There's a good chance I won't see your chat messages for up to 10 minutes at a time and when I do I'm less prone to answer them unless they are related to what I'm coding. See something wrong or just stupid? Please let me know. Questions are okay, but please don't expect a lot of narration or \"rubber ducking\" because I need all the brain power I can muster. Also avoid posting emotes and other distractions.",
+  "services": [
+    "twitch": {
+      "name": "twitch",
+      "category": "1469308723",
+      "tags": [
+         "15f4833a-1691-4cc1-a4a5-020d130ac94d",
+         "a59f1e4e-257b-4bd0-90c7-189c3efbf917",
+         "96b6073f-450d-4248-8ed4-988e28f3f759"
+       ]
+    }
+  ]
+}
+
