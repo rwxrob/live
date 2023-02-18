@@ -1,7 +1,5 @@
 # Twitch Live Streamer Utility/Library in Go
 
-***This project is on hold while I finish Bonzai.***
-
 This project seeks to make the life of a Twitch live streamer easier by
 taking a modal approach to streaming. Most streamers have a finite set
 of states or modes or things they do. One moment they are gaming, then
