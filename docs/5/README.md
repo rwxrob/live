@@ -35,5 +35,10 @@ command:
   name:
   args:
   desc:
+  timeout:
+
+job:
+  name:
+  args:
   cron:
 ```
