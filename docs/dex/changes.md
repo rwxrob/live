@@ -1,3 +1,4 @@
+* 2023-02-19 14:19:17Z [Commands](../8)
 * 2023-02-19 14:17:27Z [Unified command line interface into community services](../7)
 * 2023-02-19 14:10:32Z [Domain model](../5)
 * 2023-02-19 13:52:11Z ["Stream" over "streamer"](../6)
