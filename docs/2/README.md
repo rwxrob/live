@@ -1,3 +1,3 @@
-# Going with WebSockets
+# Internal Go messaging
 
-WebSockets provide enough speed while keeping to established standards and has a lot of adoption in all things that interact with Web services and APIs. This also allows cloud native friendly designs where something like Hashicorp plugins would not.
+While WebSockets was considered for communications with plugin services, the simplicity and speed of using Go goroutines and internal messaging cannot be topped for performance. WebSockets is primarily for communicating with things that *must* be listening separately. Recompilation with addition imports provides the best possible experience for a manager of a specific stream who may not want *all* of the `liveagent` extension plugins provided by default. As the ecosystem increases this fact will further justify the decision to use a monolith and internal Go concurrency instead of separate binaries.
