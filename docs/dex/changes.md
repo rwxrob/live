@@ -1,3 +1,4 @@
+* 2023-02-19 14:52:09Z [Single monolith binary](../11)
 * 2023-02-19 14:35:55Z [Domain model](../5)
 * 2023-02-19 14:34:42Z [Commands](../8)
 * 2023-02-19 14:30:05Z [OBS is main multi-media focus](../10)
