@@ -6,7 +6,7 @@ Even though any plugin/service can declare its own event types, these are genera
 * Status - set status/mood on supporting services
 * Tags - set tags on supporting services
 * Announce - send announcement on supporting services
-* Chat.Message - incoming message from service
+* Message - incoming message from service
 * User.Add - add user to localized list of community members
 * User.Del - delete user from community
 * User.Mod - change profile for existing user
