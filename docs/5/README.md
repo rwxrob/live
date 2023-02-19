@@ -4,18 +4,33 @@ Since any one instance of this framework is intended to support only a single li
 
 ```yaml
 stream:
-  project:             # usually title
-  status:
-  title:
-  privacy:             # video only, audio only, both, none, etc.
+  title:               # main portion of title (combined with status, mood in actual title)
+  tags:                # one word tags to help with finding stream
+  status:              # afk, online, muted, etc.
+  mood:                # emoji(s) and one word for current mood
+  commands:            # commands to hilight in title
+
 annoucement:
-message:
-  service:
   text:
+  scope:
+  origin:
+    service:
+    sender:
+
+message:
   tstamp:
+  text:
+  origin:
+    service:
+    sender:
+
 community:
-  service:
   members:
+    - name:            # name unique to the overall streaming community
+      services:
+        - type:        # enum type of service (1-twitch,2-discord,3-youtube, etc.)
+          user:        # username or account id on service
+
 command:
   name:
   args:
