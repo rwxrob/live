@@ -1,3 +1,4 @@
+* 2023-02-19 14:58:34Z [Light-weight, event bus design in Go](../3)
 * 2023-02-19 14:55:16Z [Internal Go messaging](../2)
 * 2023-02-19 14:52:09Z [Single monolith binary](../11)
 * 2023-02-19 14:35:55Z [Domain model](../5)
@@ -7,4 +8,3 @@
 * 2023-02-19 14:17:27Z [Unified command line interface into community services](../7)
 * 2023-02-19 13:52:11Z ["Stream" over "streamer"](../6)
 * 2023-02-19 13:37:57Z [Event types](../4)
-* 2023-02-19 13:28:40Z [Light-weight, event bus design in Go](../3)
